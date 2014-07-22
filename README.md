@@ -1,4 +1,4 @@
-ozbuild
+ozark
 =======
 
 Ozark compiler
