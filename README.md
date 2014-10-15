@@ -1,7 +1,7 @@
 The Ozark Compiler
 =======
 
-This is the official Ozark repository. Ozark is hosted & developed exclusively on GitHub.
+This is the official Ozark repository. Ozark is hosted & developed on GitHub.
 
 Ozark is an elegant, open-source programming language. Through strict code standards, Ozark enables new tools for generating software.
 
