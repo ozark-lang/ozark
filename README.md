@@ -9,7 +9,7 @@ Ozark is an elegant, open-source programming language. Through strict code stand
 
 [Ozark](http://www.ozark.cc) - The programming language
 
-[Documentation](http://www.ozark.cc/language-documentation) - The programming language
+[Documentation](http://www.ozark.cc/language-documentation) - Learn how to code in Ozark!
 
 [IRC](http://webchat.freenode.net/?channels=#ozark) - Get support! We hang out in IRC on irc.freenode.net in #ozark
 
