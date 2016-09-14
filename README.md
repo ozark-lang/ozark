@@ -1,4 +1,4 @@
-The Ozark Compiler
+The Ozark Interpreter
 =======
 
 This is the official Ozark repository. Ozark is hosted & developed on GitHub.
@@ -11,7 +11,7 @@ Ozark is a readable open-source programming language. Through strict code standa
 
 [Documentation](http://www.ozark.cc/language-documentation) - Learn how to code in Ozark!
 
-[IRC](http://webchat.freenode.net/?channels=#ozark) - Get support! We hang out in IRC on irc.freenode.net in #ozark
+[Slack](https://ozark-slack-signup.stamplayapp.com) - Hang out in Slack
 
 [Google Group](https://groups.google.com/forum/?fromgroups#!forum/ozark-lang) - The primary place for community discussion & announcements
 
