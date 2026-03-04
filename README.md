@@ -1,4 +1,4 @@
-The Ozark Reference Implementation
+The Ozark Compiler
 =======
 
 This is the official Ozark compiler repository. Ozark is hosted & developed on GitHub.
