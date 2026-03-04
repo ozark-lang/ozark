@@ -11,10 +11,6 @@ Ozark is a readable open-source programming language. Through strict code standa
 
 [Documentation](https://ozark.cc/language-documentation) - Learn how to code in Ozark!
 
-[Slack](https://ozark-slack-signup.stamplayapp.com) - General real-time discussion & help
-
-[Google Group](https://groups.google.com/forum/?fromgroups#!forum/ozark-lang) - The primary place for community discussion & announcements
-
 [GitHub Issues](https://github.com/ozark-lang/ozark/issues) - Issues & bugs
 
 [Related Repositories](https://github.com/ozark-lang) - The full suite of Ozark code
